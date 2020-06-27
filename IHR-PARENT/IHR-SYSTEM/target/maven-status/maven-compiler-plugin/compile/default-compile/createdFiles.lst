@@ -1,0 +1,16 @@
+com\ihr\system\SystemConfig.class
+com\ihr\system\service\RoleService.class
+com\ihr\system\dao\RoleDao.class
+com\ihr\system\dao\PermissionPointDao.class
+com\ihr\system\dao\PermissionDao.class
+com\ihr\system\controller\PermissionController.class
+com\ihr\system\service\PermissionService$1.class
+com\ihr\system\service\PermissionService.class
+com\ihr\system\controller\UserController.class
+com\ihr\system\dao\PermissionApiDao.class
+com\ihr\system\dao\UserDao.class
+com\ihr\system\dao\PermissionMenuDao.class
+com\ihr\system\SystemApplication.class
+com\ihr\system\service\UserService$1.class
+com\ihr\system\controller\RoleController.class
+com\ihr\system\service\UserService.class

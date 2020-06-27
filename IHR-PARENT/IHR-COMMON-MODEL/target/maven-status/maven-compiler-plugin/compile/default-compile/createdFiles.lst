@@ -1,0 +1,12 @@
+com\ihr\domain\company\Department.class
+com\ihr\domain\system\PermissionMenu.class
+com\ihr\domain\company\Company.class
+com\ihr\domain\system\Role.class
+com\ihr\domain\system\User.class
+com\ihr\domain\system\PermissionApi.class
+com\ihr\domain\system\PermissionPoint.class
+com\ihr\domain\system\response\ProfileResult.class
+com\ihr\domain\system\Permission.class
+com\ihr\domain\system\response\UserResult.class
+com\ihr\domain\company\response\DepartmentListResult.class
+com\ihr\domain\system\response\RoleResult.class

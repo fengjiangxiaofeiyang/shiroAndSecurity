@@ -1,0 +1,12 @@
+E:\git3\IHR-PARENT\IHR-COMMON\src\main\java\com\ihr\common\handler\BaseExceptionHandler.java
+E:\git3\IHR-PARENT\IHR-COMMON\src\main\java\com\ihr\common\utils\IdWorker.java
+E:\git3\IHR-PARENT\IHR-COMMON\src\main\java\com\ihr\common\entity\Result.java
+E:\git3\IHR-PARENT\IHR-COMMON\src\main\java\com\ihr\common\utils\BeanMapUtils.java
+E:\git3\IHR-PARENT\IHR-COMMON\src\main\java\com\ihr\common\utils\JwtUtils.java
+E:\git3\IHR-PARENT\IHR-COMMON\src\main\java\com\ihr\common\entity\PageResult.java
+E:\git3\IHR-PARENT\IHR-COMMON\src\main\java\com\ihr\common\controller\BaseController.java
+E:\git3\IHR-PARENT\IHR-COMMON\src\main\java\com\ihr\common\entity\ReturnCode.java
+E:\git3\IHR-PARENT\IHR-COMMON\src\main\java\com\ihr\common\exception\CommonException.java
+E:\git3\IHR-PARENT\IHR-COMMON\src\main\java\com\ihr\common\interceptor\JwtInterceptor.java
+E:\git3\IHR-PARENT\IHR-COMMON\src\main\java\com\ihr\common\service\BaseService.java
+E:\git3\IHR-PARENT\IHR-COMMON\src\main\java\com\ihr\common\utils\PermissionConstants.java

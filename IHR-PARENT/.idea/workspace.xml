@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0cf6d75a-9f04-466e-bc6b-3a30cd503872" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1dEw09S3xZsLxU8DI8QAVEXMBKa" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/IHR-COMMON/src/main/resources" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ihr.company" />
+      <recent name="com.ihr.system" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\git3\IHR-PARENT\IHR-SYSTEM\src\main\java\com\ihr\system\shiro\realm" />
+      <recent name="E:\git3\IHR-PARENT\IHR-SYSTEM\src\main\java\com\ihr\system" />
+      <recent name="E:\git3\IHR-PARENT\IHR-COMPANY\src\main\java\com\ihr\company\shiro\realm" />
+      <recent name="E:\git3\IHR-PARENT\IHR-COMPANY\src\main\java\com\ihr\company" />
+      <recent name="E:\git3\IHR-PARENT\IHR-COMMON\src\main\java\com\ihr\common\shiro\session" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SystemApplication">
+    <configuration name="CompanyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="IHR-COMPANY" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ihr.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ihr.company.CompanyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SystemApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="IHR-SYSTEM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ihr.system.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ihr.system.SystemApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.SystemApplication" />
+        <item itemvalue="Spring Boot.CompanyApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0cf6d75a-9f04-466e-bc6b-3a30cd503872" name="Default Changelist" comment="" />
+      <created>1592003334676</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592003334676</updated>
+      <workItem from="1592003346035" duration="11229000" />
+      <workItem from="1592092379278" duration="986000" />
+      <workItem from="1592099334975" duration="596000" />
+      <workItem from="1592181916492" duration="5016000" />
+      <workItem from="1592268551026" duration="13272000" />
+      <workItem from="1592353884342" duration="2280000" />
+      <workItem from="1592362712565" duration="13126000" />
+      <workItem from="1592399109371" duration="970000" />
+      <workItem from="1592444240818" duration="1352000" />
+      <workItem from="1592557631198" duration="2774000" />
+      <workItem from="1592569173033" duration="3155000" />
+      <workItem from="1592658123400" duration="2958000" />
+      <workItem from="1592739526373" duration="3008000" />
+      <workItem from="1592786725418" duration="5819000" />
+      <workItem from="1592873914811" duration="2973000" />
+      <workItem from="1592988893494" duration="673000" />
+      <workItem from="1593219891650" duration="2050000" />
+      <workItem from="1593243903352" duration="886000" />
+      <workItem from="1593257346410" duration="2063000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
